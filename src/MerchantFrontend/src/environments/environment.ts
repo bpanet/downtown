@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  hubspotPortalId: '6506294',
-  hubspotFormId: 'e2d4a12e-a1c0-4ac0-87b5-ed89c490ecff',
+  hubspotPortalId: '8942616',
+  hubspotFormId: '645be48c-f086-48fe-9c83-f85f26a13716',
   apiUrl: 'http://downtown-shop.local',
   accessKey: 'SWSCR2FPWJDMWU9HEXZLMTVWUG'
 };
