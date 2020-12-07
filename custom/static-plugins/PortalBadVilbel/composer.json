@@ -1,0 +1,19 @@
+{
+    "name": "bpa/portal-bad-vilbel-theme",
+    "description": "downtown.shop Portal theme Bad Vilbel city",
+    "version": "v1.0.0",
+    "type": "shopware-platform-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PortalBadVilbel\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "PortalBadVilbel\\PortalBadVilbel",
+        "label": {
+            "de-DE": "downtown.shop Portal theme Bad Vilbel city",
+            "en-GB": "downtown.shop Portal theme Bad Vilbel city"
+        }
+    }
+}

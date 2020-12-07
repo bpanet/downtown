@@ -1,0 +1,35 @@
+{
+    "name": "Portal Bad Vilbel city",
+    "author": "blackpoint GmbH",
+    "views": [
+        "@Storefront",
+        "@Plugins",
+        "@PortalBundle",
+        "@PortalBadVilbel"
+    ],
+    "style": [
+        "app/storefront/src/scss/overrides.scss",
+        "@Storefront",
+        "@PortalBundle",
+        "app/storefront/src/scss/base.scss"
+    ],
+    "script": [
+        "@Storefront",
+        "@PortalBundle",
+        "app/storefront/dist/storefront/js/portal-bad-vilbel.js"
+    ],
+    "asset": [
+        "@PortalBundle",
+        "app/storefront/src/assets"
+    ],
+    "config": {
+        "fields": {
+            "sw-color-brand-primary": {
+                "value": "rgb(6, 53, 117)"
+            },
+            "sw-color-brand-secondary": {
+                "value": "#f3f3f3"
+            }
+        }
+    }
+}

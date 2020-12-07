@@ -1,0 +1,12 @@
+.nav-main {
+    background-color: $sw-color-brand-primary;
+}
+
+.main-navigation-link {
+    &,
+    &.active,
+    &:hover,
+    &.is-open {
+        color: $white;
+    }
+}

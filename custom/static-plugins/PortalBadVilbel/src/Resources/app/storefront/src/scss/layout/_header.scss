@@ -1,0 +1,23 @@
+.header-actions-btn {
+    &,
+    &:hover {
+        .icon-avatar {
+            color: $primary;
+        }
+
+        .icon-feather-shopping-bag {
+            svg {
+                stroke: $primary;
+            }
+        }
+    }
+}
+
+.header-main {
+    box-shadow: none;
+    margin-bottom: 20px;
+}
+
+.disclaimer {
+    margin: 20px 0 40px 0;
+}

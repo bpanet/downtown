@@ -48,7 +48,8 @@
         "shopware\/elasticsearch": "v6.3.*",
         "shopware\/recovery": "v6.3.*",
         "ext-json": "*",
-        "ext-openssl": "*"
+        "ext-openssl": "*",
+        "bpa/portal-bad-vilbel-theme": "^1.0"
     },
     "require-dev": {
         "ext-tokenizer": "*",
