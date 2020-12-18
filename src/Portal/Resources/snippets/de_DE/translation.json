@@ -32,9 +32,9 @@
     },
     "mail": {
         "merchant_order_confirmation": {
-            "subject": "Neue Bestellung bei Downtowns",
+            "subject": "Neue Bestellung bei Downtown",
             "hello": "Hallo %merchant%,",
-            "youHaveNewOrder": "Du hast eine neue Bestellung erhalten .",
+            "youHaveNewOrder": "Du hast eine neue Bestellung erhalten.",
             "orderItems": "Bestellpositionen",
             "tableHeader": {
                 "pos": "Pos",
@@ -48,13 +48,13 @@
             "deliveryAddress": "Lieferaddresse"
         },
         "merchant_registration": {
-            "subject": "Deine Registrierung bei Downtowns",
+            "subject": "Deine Registrierung bei Downtown",
             "hello": "Hallo %merchant%,",
             "text": "Bitte bestätigen Sie Ihre E-Mail-Adresse. Nach der Bestätigung werden Sie zum Portal weitergeleitet und können Sich einloggen.",
             "confirmButton": "E-Mail bestätigen"
         },
         "merchant_reset_password": {
-            "subject": "Passwort Vergessen Anfrage bei Downtowns",
+            "subject": "Passwort Vergessen Anfrage bei Downtown",
             "hello": "Hallo %merchant%,",
             "text": "im Portal wurde eine Anfrage gestellt, um Ihr Passwort zurückzusetzen.<br>\nBitte bestätigen Sie den untenstehenden Link, um ein neues Passwort zu definieren.",
             "confirmButton": "Passwort zurücksetzen"
