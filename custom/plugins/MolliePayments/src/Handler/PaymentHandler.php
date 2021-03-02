@@ -244,7 +244,7 @@ class PaymentHandler implements AsynchronousPaymentHandlerInterface
             return $merchant->getMollieTestKey();
         }
 
-        (string)$merchant->getMollieProdKey();
+        return $merchant->getMollieProdKey();
     }
 
     /**
